@@ -21,8 +21,7 @@ p {
     margin: 0 auto;
     line-height: 1.6;
     color: rgb(245, 247, 250);
-    padding: 0 15px;
-}
+  }
 
 ul {
     text-align: justify;
@@ -30,8 +29,7 @@ ul {
     margin: 0 auto;
     line-height: 1.6;
     color: rgb(245, 247, 250);
-    padding: 0 15px;
-}
+   }
 
 ol {
     text-align: justify;
@@ -39,8 +37,7 @@ ol {
     margin: 0 auto;
     line-height: 1.6;
     color: rgb(245, 247, 250);
-    padding: 0 15px;
-}
+    }
 
 h1 {
     font-size: 50px;
