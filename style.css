@@ -2,9 +2,8 @@ body {
     background-color: rgb(59, 112, 128);
     text-align: center;
     font-size: 20px;
-    align-items: center;
     margin: 0;
-    padding: 10px;
+    padding: 0 15px;
 }
 
 a {
@@ -22,6 +21,7 @@ p {
     margin: 0 auto;
     line-height: 1.6;
     color: rgb(245, 247, 250);
+    padding: 0 15px;
 }
 
 ul {
@@ -30,6 +30,7 @@ ul {
     margin: 0 auto;
     line-height: 1.6;
     color: rgb(245, 247, 250);
+    padding: 0 15px;
 }
 
 ol {
@@ -38,6 +39,7 @@ ol {
     margin: 0 auto;
     line-height: 1.6;
     color: rgb(245, 247, 250);
+    padding: 0 15px;
 }
 
 h1 {
